@@ -10,7 +10,7 @@ let spinTimeout = null;
 function brandMarkup(compact = false) {
   return `
     <button class="brand ${compact ? 'brand--compact' : ''}" type="button" data-home aria-label="What you wanna eat home">
-      <img src="/.assets/strawberry-sketch.png" alt="" />
+      <img src="./assets/strawberry-sketch.png" alt="" />
       <span>what you<br />wanna <em>eat?</em></span>
     </button>`;
 }

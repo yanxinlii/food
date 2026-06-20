@@ -6,7 +6,7 @@ export const FOOD_CATEGORIES = {
     spinTitle: 'Spin for Brunch',
     accent: '#ef7774',
     soft: '#fff0eb',
-    image: '/assets/brunch-sketch.png',
+    image: './assets/brunch-sketch.png',
     groups: [
       {
         name: 'North American Brunch',
@@ -45,7 +45,7 @@ export const FOOD_CATEGORIES = {
     spinTitle: 'Spin for Main Course',
     accent: '#9b7ac9',
     soft: '#f3edf9',
-    image: '/assets/main-sketch.png',
+    image: './assets/main-sketch.png',
     groups: [
       {
         name: 'Burgers & Sandwiches',
@@ -145,7 +145,7 @@ export const FOOD_CATEGORIES = {
     spinTitle: 'Spin for Dessert',
     accent: '#78af9a',
     soft: '#eef8f0',
-    image: '/assets/dessert-sketch.png',
+    image: './assets/dessert-sketch.png',
     groups: [
       {
         name: 'Ice Cream & Frozen',
